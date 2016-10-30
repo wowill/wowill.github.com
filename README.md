@@ -1,2 +1,2 @@
-# wowill.github.com
+# wowill.github.io
 创建个人站点
